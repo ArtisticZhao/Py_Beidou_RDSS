@@ -14,3 +14,5 @@ pyserial
 sudo usermod -a -G dialout $USER
 ```
 
+## Inspired
+[Neutree/COMTool](https://github.com/Neutree/COMTool) about the thread read of serial
